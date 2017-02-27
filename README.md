@@ -14,7 +14,7 @@ Latest Update
 Data Source
 ============
 ```
-func introPageViewController(_ pageViewController: IntroPageViewController, numberOfPages pages: Int)
+<span style="color:blue">func</span> introPageViewController(_ pageViewController: IntroPageViewController, numberOfPages pages: Int)
 ```
 
 Delegate
