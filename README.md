@@ -14,7 +14,7 @@ Latest Update
 Data Source
 ============
 ```
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `func` introPageViewController(_ pageViewController: IntroPageViewController, numberOfPages pages: Int)
+func introPageViewController(_ pageViewController: IntroPageViewController, numberOfPages pages: Int)
 ```
 
 Delegate
