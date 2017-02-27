@@ -1,26 +1,49 @@
 # SwiftPageViewController
 Introduction work through with UIPageViewController
 
-
-Hello
-=============
-
 ————————————————————————————————————
 
-예제 입니다.
+Requirements
 ============
+Running in
++ iOS 8.0+
++ Xcode 8.1+
++ Swift 3.0+
+
+Latest Update
+============
+
+Usage
+============
+
+Data Source
+============
+```
+func introPageViewController(_ pageViewController: IntroPageViewController, numberOfPages pages: Int)
+```
+
+Delegate
+============
+```
+func introPageViewController(_ pageViewController: IntroPageViewController, didChangePageIndex index: Int)
+```
+
+Author
+============
+warumono - <warumono.for.develop@gmail.com>
+
+License
+============
+SwiftPageViewController is available under the MIT license. See the LICENSE file for more info.
+
+
 GFM은
 —
 다음과
 같이
->사용이
->>가능합니다.
->###어렵지 않습니다.
-코드 표현방법
-————-
-“`
-var i = 0
-“`
+
+Set Storyboard ID
+============
 
 var foo = “bar”
 <html> </html>
