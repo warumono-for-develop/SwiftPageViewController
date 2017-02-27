@@ -10,6 +10,7 @@ Running in
 
 Latest Update
 ============
++ 1.0 (Feb 27, 2017)
 
 Data Source
 ============
